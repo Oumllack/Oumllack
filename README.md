@@ -23,14 +23,6 @@
 
 ---
 
-### 📫 &nbsp; Comment me contacter :
-
-- LinkedIn : [Votre profil LinkedIn]
-- Email : [Votre email]
-- Twitter : [Votre Twitter]
-
----
-
 ### ⚡ &nbsp; À propos de moi :
 
 - 🔭 Je travaille actuellement sur ...

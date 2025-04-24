@@ -5,11 +5,16 @@ on:
     - cron: '0 0 * * *'  # Exécution à minuit chaque jour
   workflow_dispatch:  # Permet l'exécution manuelle
 
+permissions:
+  contents: write
+
 jobs:
   commit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Configure Git
         run: |
@@ -18,7 +23,7 @@ jobs:
       
       - name: Update README
         run: |
-          date >> README.md
+          echo "\n<!-- Last updated: $(date) -->" >> README.md
           git add README.md
           git commit -m "Daily commit: $(date)"
           git push 

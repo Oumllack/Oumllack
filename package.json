@@ -1,0 +1,12 @@
+{
+  "name": "oumllack-readme",
+  "version": "1.0.0",
+  "description": "README automatique pour GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+} 

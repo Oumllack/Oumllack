@@ -28,11 +28,11 @@ I am an Implementation Engineer passionate about Deep Learning, MLOps, and DevOp
 
 ---
 
-### Compteur de visiteurs
+### Visite counts
 
 <img src="https://profile-counter.glitch.me/Oumllack/count.svg" />
 
-Dernière mise à jour : <!-- Last updated: Thu Apr 24 03:30:00 UTC 2025 -->
+<!-- Last updated: Thu Apr 24 03:30:00 UTC 2025 -->
 
 
 

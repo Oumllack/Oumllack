@@ -20,3 +20,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oumllack&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumllack&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Last updated: Thu Apr 24 03:30:00 UTC 2025 -->
+

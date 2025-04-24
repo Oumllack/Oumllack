@@ -5,12 +5,12 @@ import random
 import string
 
 def get_today_date():
-    return datetime.datetime.now().strftime("%a %b %d %Y")
+    return datetime.now().strftime("%a %b %d %Y")
 
 def get_days_before_new_year():
-    today = datetime.datetime.now()
+    today = datetime.now()
     next_year = today.year + 1
-    new_year = datetime.datetime(next_year, 1, 1)
+    new_year = datetime(next_year, 1, 1)
     days_left = (new_year - today).days
     return f"**{days_left} days before {next_year} ⏱**"
 
@@ -24,7 +24,7 @@ def get_bot_signing():
         5: "expertise",
         6: "excellence"
     }
-    mood = moods[datetime.datetime.now().weekday()]
+    mood = moods[datetime.now().weekday()]
     return f"🤖 This README is updated with {mood}, by Oumllack ❤️"
 
 def update_readme():

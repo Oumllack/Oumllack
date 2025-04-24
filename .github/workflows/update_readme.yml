@@ -18,9 +18,11 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+      - name: Install dependencies
+        run: npm install
       - name: Update README.md file
         run: |
-          node index.js > README.md
+          node index.js
         env:
           CI: true
       - name: commit changes
@@ -28,8 +30,8 @@ jobs:
         with:
           author_name: Oumllack
           author_email: Oumllack@users.noreply.github.com
-          force: false
+          force: true
           signoff: false
-          message: ':memo: README.md mis à jour automatiquement'
+          message: ':memo: README.md updated automatically'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

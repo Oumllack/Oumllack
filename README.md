@@ -1,10 +1,10 @@
 <h1 align="center">Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### À propos de moi 👋
+### About Me 👋
 
-Je suis un développeur passionné par le DevOps et le développement web. Je travaille sur des projets innovants et partage mon expérience sur GitHub.
+I am an Implementation Engineer passionate about Deep Learning, MLOps, and DevOps. I specialize in building and deploying machine learning models at scale, with a focus on automation and best practices in production environments.
 
-### 🛠 &nbsp;Langages et Outils :
+### 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -20,7 +20,7 @@ Je suis un développeur passionné par le DevOps et le développement web. Je tr
 
 ---
 
-### 🔥 &nbsp; Mes Statistiques :
+### 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oumllack&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
@@ -34,6 +34,6 @@ Je suis un développeur passionné par le DevOps et le développement web. Je tr
 
 Dernière mise à jour : <!-- Last updated: Thu Apr 24 03:30:00 UTC 2025 -->
 
-🤖 Ce README est mis à jour automatiquement chaque jour ❤️
+
 
 <!-- Last updated: Thu Apr 24 04:18:17 UTC 2025 -->

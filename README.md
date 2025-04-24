@@ -28,7 +28,7 @@ I am an Implementation Engineer passionate about Deep Learning, MLOps, and DevOp
 
 ---
 
-### Visite counts
+### Visit count
 
 <img src="https://profile-counter.glitch.me/Oumllack/count.svg" />
 

@@ -1,5 +1,9 @@
 <h1 align="center">Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+### À propos de moi 👋
+
+Je suis un développeur passionné par le DevOps et le développement web. Je travaille sur des projets innovants et partage mon expérience sur GitHub.
+
 ### 🛠 &nbsp;Langages et Outils :
 
 <p>
@@ -22,5 +26,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oumllack&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Last updated: Thu Apr 24 03:30:00 UTC 2025 -->
+---
+
+### Compteur de visiteurs
+
+<img src="https://profile-counter.glitch.me/Oumllack/count.svg" />
+
+Dernière mise à jour : <!-- Last updated: Thu Apr 24 03:30:00 UTC 2025 -->
+
+🤖 Ce README est mis à jour automatiquement chaque jour ❤️
 

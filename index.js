@@ -31,8 +31,8 @@ function generateNewREADME() {
 
 const moodByDay = {
   1: 'passion',
-  2: 'détermination',
-  3: 'créativité',
+  2: 'determination',
+  3: 'creativity',
   4: 'innovation',
   5: 'excellence',
   6: 'expertise',
@@ -41,7 +41,7 @@ const moodByDay = {
 
 function getBotSigning() {
   const mood = moodByDay[today.getDay() + 1];
-  return `🤖 Ce README est mis à jour avec ${mood}, par Oumllack ❤️`;
+  return `🤖 This README is updated with ${mood}, by Oumllack ❤️`;
 }
 
 function getTodayDate() {
@@ -55,7 +55,7 @@ function getDBNWSentence() {
   const timeUntilNewYear = nextYearDate.getTime() - today.getTime();
   const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
 
-  return `**${dayUntilNewYear} jours avant ${nextYear} ⏱**`;
+  return `**${dayUntilNewYear} days before ${nextYear} ⏱**`;
 }
 
 const findIdentifierIndex = (rows, identifier) =>

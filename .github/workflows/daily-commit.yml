@@ -25,19 +25,16 @@ jobs:
       
       - name: Update README
         run: |
-          # Vérifier si le fichier a été modifié
-          if git diff --quiet README.md; then
-            echo "Aucun changement détecté dans README.md"
-            exit 0
-          fi
-          
-          # Mettre à jour le timestamp
+          # Supprimer l'ancien timestamp
           sed -i '/<!-- Last updated:/d' README.md
-          printf "\n<!-- Last updated: $(date -u) -->" >> README.md
+          
+          # Ajouter le nouveau timestamp avec un format plus détaillé
+          TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
+          echo -e "\n<!-- Last updated: $TIMESTAMP -->" >> README.md
           
           # Commit et push avec gestion d'erreur
           git add README.md
-          git commit -m "Daily commit: $(date -u)" || exit 1
+          git commit -m "Auto-update: $TIMESTAMP" || exit 1
           git push origin main || exit 1
           
-          echo "Mise à jour réussie" 
+          echo "Mise à jour réussie à $TIMESTAMP" 

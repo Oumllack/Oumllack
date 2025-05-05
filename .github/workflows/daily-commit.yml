@@ -13,6 +13,9 @@ jobs:
       
       - name: Update timestamp
         run: |
+          # Supprimer l'ancien timestamp
+          sed -i '/<!-- Last updated:/d' README.md
+          # Ajouter le nouveau timestamp
           echo "<!-- Last updated: $(date -u) -->" >> README.md
           
       - name: Commit and push

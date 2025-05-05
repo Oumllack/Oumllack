@@ -2,8 +2,9 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Exécution à minuit chaque jour
+    - cron: '*/5 * * * *'  # Exécution toutes les 5 minutes pour le test
   workflow_dispatch:  # Permet l'exécution manuelle
+  push:  # Déclencheur sur push pour le test
 
 permissions:
   contents: write

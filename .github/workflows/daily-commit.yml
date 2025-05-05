@@ -12,9 +12,10 @@ jobs:
   commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       
       - name: Configure Git
         run: |
@@ -23,7 +24,19 @@ jobs:
       
       - name: Update README
         run: |
-          printf "<!-- Last updated: $(date) -->" >> README.md
+          # Vérifier si le fichier a été modifié
+          if git diff --quiet README.md; then
+            echo "Aucun changement détecté dans README.md"
+            exit 0
+          fi
+          
+          # Mettre à jour le timestamp
+          sed -i '/<!-- Last updated:/d' README.md
+          printf "\n<!-- Last updated: $(date -u) -->" >> README.md
+          
+          # Commit et push avec gestion d'erreur
           git add README.md
-          git commit -m "Daily commit: $(date)"
-          git push 
+          git commit -m "Daily commit: $(date -u)" || exit 1
+          git push origin main || exit 1
+          
+          echo "Mise à jour réussie" 

@@ -1,40 +1,24 @@
-name: Daily Commit
+name: Auto Commit
 
 on:
   schedule:
-    - cron: '* * * * *'  # Exécution chaque minute pour le test
-  workflow_dispatch:  # Permet l'exécution manuelle
-  push:  # Déclencheur sur push pour le test
-
-permissions:
-  contents: write
+    - cron: '* * * * *'  # Chaque minute
+  workflow_dispatch:
 
 jobs:
-  commit:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
       
-      - name: Configure Git
+      - name: Update timestamp
+        run: |
+          echo "<!-- Last updated: $(date -u) -->" >> README.md
+          
+      - name: Commit and push
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-      
-      - name: Update README
-        run: |
-          # Supprimer l'ancien timestamp
-          sed -i '/<!-- Last updated:/d' README.md
-          
-          # Ajouter le nouveau timestamp avec un format plus détaillé
-          TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
-          echo -e "\n<!-- Last updated: $TIMESTAMP -->" >> README.md
-          
-          # Commit et push avec gestion d'erreur
           git add README.md
-          git commit -m "Auto-update: $TIMESTAMP" || exit 1
-          git push origin main || exit 1
-          
-          echo "Mise à jour réussie à $TIMESTAMP" 
+          git commit -m "Auto update: $(date -u)"
+          git push 

@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Implementation Engineer passionate about Deep Learning, Data Science and Analysis, MLOps, and DevOps. I specialize in building and deploying machine learning models at scale, with a focus on automation and best practices in production environments.
+Implementation Engineer passionate about Deep Learning, Data Science and Analysis, MLOps, and DevOps.  specialize in building and deploying machine learning models at scale, with a focus on automation and best practices in production environments.
 
 ### 🛠 &nbsp;Languages and Tools :
 

@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-mplementation Engineer | Data Scientist | Expert in Deep Learning, MLOps & DevOps | Scaling AI in Production
+Implementation Engineer | Data Scientist | Expert in Deep Learning, MLOps & DevOps | Scaling AI in Production
 
 Passionate about bridging the gap between machine learning research and real-world applications, I specialize in designing, building, and deploying scalable AI solutions. With a strong foundation in Deep Learning, MLOps, and DevOps, I focus on turning cutting-edge models into reliable, high-performance systems that drive business impact.
 

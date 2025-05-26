@@ -4,7 +4,7 @@
 
 Software Engineer | Data Scientist | Expert in Deep Learning | Scaling AI in Production | Business Technology Strategist 
 
-Passionate about bridging the gap between machine learning research and real-world applications, I specialize in designing, building, and deploying scalable AI solutions. With a strong foundation in Deep Learning, I focus on turning cutting-edge models into reliable, high-performance systems that drive business impact.
+Passionate about bridging the gap between machine learning research and real-world applications,  specialize in designing, building, and deploying scalable AI solutions. With a strong foundation in Deep Learning, I focus on turning cutting-edge models into reliable, high-performance systems that drive business impact.
 
 ### 🛠 &nbsp;Languages and Tools :
 

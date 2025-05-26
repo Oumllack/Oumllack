@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Petroleum Engineer | Data Scientist | Expert in Deep Learning | Scaling AI in Production | Business Technology Strategist 
+Petroleum Reservoir Engineer | Data Scientist | Expert in Deep Learning | Scaling AI in Production | Business Technology Strategist 
 
 Petroleum engineer specialized in Reservoir Engineering, with additional qualifications in Data Science and in Economics and Business Management. This unique combination allows me to operate at the intersection of technical operations, advanced data analytics, and strategic decision-making within the energy sector.
 

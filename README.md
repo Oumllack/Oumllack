@@ -4,7 +4,7 @@
 
 Petroleum Data Scientist | Digital Reservoir Engineer | Machine Learning Expert | Business Technology Strategist 
 
-Petroleum engineer specialized in Reservoir Engineering, with additional qualifications in Data Science and in Economics and Business Management. This unique combination allows me to operate at the intersection of technical operations, advanced data analytics, and strategic decision-making within the energy sector.
+Petroleum engineer specialized n Reservoir Engineering, with additional qualifications in Data Science and in Economics and Business Management. This unique combination allows me to operate at the intersection of technical operations, advanced data analytics, and strategic decision-making within the energy sector.
 
 ### 🛠 &nbsp;Languages and Tools :
 

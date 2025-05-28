@@ -4,7 +4,7 @@
 
 Reservoir Engineer | Data Scientist | Machine Learning Expert | Business Technology Strategist 
 
-Reservoir Engineer with expertise in Data Science, Economics, and Business Management.
+Data Scientist with expertise in geological modeling and reservoir simulation.
 This unique combination allows me to operate at the intersection of technical operations, advanced data sciences and analytics, and strategic decision-making within the energy sector.
 
 ### 🛠 &nbsp;Languages and Tools :

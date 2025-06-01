@@ -4,7 +4,7 @@
 
 Data Scientist | Data Analyst | Reservoir Engineer | Machine Learning Expert
 
-Data Analyst/Scientist specialized in prediction, performance optimization and digital transformation of operations via machine Learning.
+Data Analyst/Scientist with expertise in Reservoir Engineering specialized in prediction, performance optimization and digital transformation of operations via machine Learning.
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>

@@ -4,9 +4,7 @@
 
 Data Scientist | Data Analyst | Reservoir Engineer | Machine Learning Expert
 
-Data Scientist with expertise in geological modeling and reservoir simulation.
-This unique combination allows me to operate at the intersection of technical operations, advanced data sciences and analytics, and strategic decision-making within the energy sector.
-
+Data Analyst / Scientist specialized in prediction, performance optimization and digital transformation of operations via machine Learning.
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>

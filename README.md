@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Data Scientist | Data Analyst | IT Engineer | Machine Learning Expertt
+Data Scientist | Data Analyst | IT Engineer | Machine Learning Expert
 
 Data Scientist with expertise in Reservoir Engineering specialized in prediction, performance optimization and digital transformation of operations via machine Learning.
 ### 🛠 &nbsp;Languages and Tools :

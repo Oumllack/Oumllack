@@ -2,9 +2,9 @@
 
 ### About Me 👋
 
-Data Scientist | Data Analyst | IT Engineer | Machine Learning Expert
+Data Scientist | Quantitative Risk Analyst | IT Engineer | Machine Learning Expert
 
-Data Scientist with expertise in Reservoir Engineering specialized in prediction, performance optimization and digital transformation of operations via machine Learning.
+Every decision in the energy sector is a bet on the future, unfolding amid growing complexity and major geopolitical uncertainties. This dynamic where technical expertise, data science, and strategic insight intersect is what drives me every day.
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>

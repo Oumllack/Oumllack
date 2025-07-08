@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Data Scientist | Quantitative Risk Analyst | IT Engineer | Machine Learning Exper
+Data Scientist | Quantitative Risk Analyst | IT Engineer | Machine Learning Expert
 
 Every decision in the energy sector is a bet on the future, unfolding amid growing complexity and major geopolitical uncertainties. This dynamic where technical expertise, data science, and strategic insight intersect is what drives me every day.
 ### 🛠 &nbsp;Languages and Tools :

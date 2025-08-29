@@ -2,9 +2,9 @@
 
 ### About Me 👋
 
-Data Scientist | Risk Analyst | IT Engineer | Machine Learning Expert
+Technologies Implementation Engineer. Co-Founder & Chief Executive Officer at IvoryTech Engineering.
+Building high-impact engineering solutions and innovations.
 
-Every decision in the energy sector is a bet on the future, unfolding amid growing complexity and major geopolitical uncertainties. This dynamic where technical expertise, data science, and strategic insight intersect is what drives me every day.
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>

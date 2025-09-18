@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Engineering Manager.
+Engineering Project Manager.
 Co-Founder & Chief Executive Officer at IvoryTech Engineering.
 
 ### 🛠 &nbsp;Languages and Tools :

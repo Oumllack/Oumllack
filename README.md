@@ -4,7 +4,6 @@
 
 Engineering Manager.
 Co-Founder & Chief Executive Officer at IvoryTech Engineering.
-Building high-impact engineering solutions and innovations.
 
 ### 🛠 &nbsp;Languages and Tools :
 

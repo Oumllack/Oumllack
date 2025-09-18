@@ -3,7 +3,7 @@
 ### About Me 👋
 
 Technologies Implementation Engineer.
-Co-Founder & Chief Executive Officer at IvoryTech Engineering.
+Co-Founder & Chief Executive Officer at IvoryTech Engineerin.
 Building high-impact engineering solutions and innovations.
 
 ### 🛠 &nbsp;Languages and Tools :

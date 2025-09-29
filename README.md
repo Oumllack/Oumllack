@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Engineering Manager - Technical & Technological Project Lead.
+Engineering Manage - Technical & Technological Project Lead.
 Co-Founder & Chief Executive Officer at IvoryTech Engineering.
 
 ### 🛠 &nbsp;Languages and Tools :

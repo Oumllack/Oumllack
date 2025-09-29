@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Engineering Manager - Technological Projects & Information Systems.
+Engineering Project Manager - Information Systems & Technology.
 
 ### 🛠 &nbsp;Languages and Tools :
 

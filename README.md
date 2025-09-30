@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Engineering Project Manager - Information Systems & Technology.
+Project Manager - Information Systems & ERP Implementation.
 
 ### 🛠 &nbsp;Languages and Tools :
 

@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Project Manager - Information Systems & ERP Implementation.
+Project Manager - Information Systems & ERP Implementations.
 
 ### 🛠 &nbsp;Languages and Tools :
 

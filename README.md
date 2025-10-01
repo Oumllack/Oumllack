@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Technical Project Manager - Information Systems & ERP Implementations.
+Technical Project Manager - ERP/CRM Systems Implementations.
 
 ### 🛠 &nbsp;Languages and Tools :
 

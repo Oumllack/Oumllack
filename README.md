@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Technical Project Manager | ERP & CRM | Business Process Optimization.
+Technical Project Manager | ERP & CRM | Business Process Optimization
 
 ### 🛠 &nbsp;Languages and Tools :
 

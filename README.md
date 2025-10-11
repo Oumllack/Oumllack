@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Project Engineer | ERP & CRM | Business Process Optimization.
+Project Engineer | ERP & CRM | Information Systems.
 
 ### 🛠 &nbsp;Languages and Tools :
 

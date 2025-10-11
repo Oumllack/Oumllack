@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Project Engineer | ERP & CRM | Information Systems.
+Project Engineer - Information Systems.
 
 ### 🛠 &nbsp;Languages and Tools :
 

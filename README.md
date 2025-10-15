@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Project Engineer - Information Systems.
+Project Engineer | ERP Specialist | Information Systems.
 
 ### 🛠 &nbsp;Languages and Tools :
 

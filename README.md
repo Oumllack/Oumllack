@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-System Engineer | Project Manager | Information Systems & ERP.
+ERP Systems Engineer | IT Project Manager | Information Systems.
 
 ### 🛠 &nbsp;Languages and Tools :
 

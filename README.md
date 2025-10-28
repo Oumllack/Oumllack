@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Information Systems Engineer | IT Project Manager | Technology Integration & Business Process Optimization.
+Information Systems Engineer | ERP Project Manager | Technology Integration & Business Process Optimization.
 
 ### 🛠 &nbsp;Languages and Tools :
 

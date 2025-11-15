@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Information Systems Engineer | IT Project Manager | Technology Integration & Digital Innovations.
+Information Systems Engineer | IT Project Manager | Technology Integration Specialist | Digital Innovations.
 
 ### 🛠 &nbsp;Languages and Tools :
 

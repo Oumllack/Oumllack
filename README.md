@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Information Systems Engineer | IT Project Manager | Technology Integration Specialist.
+Information Systems Engineer | Technology Integration Specialist | IT Project Manager | Process Reengineering.
 
 ### 🛠 &nbsp;Languages and Tools :
 

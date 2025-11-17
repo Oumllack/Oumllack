@@ -4,6 +4,9 @@
 
 Information Systems Engineer | Technology Integration Specialist | IT Project Manager | Process Reengineering.
 
+Information Systems Engineer specialized in Technological Integration, i am responsible for the implementation of IT projects. 
+Supervises the planning, coordination and deployment of ERP solutions and information systems, ensuring control over quality, deadlines and costs. 
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
